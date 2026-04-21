@@ -1,3 +1,7 @@
+--[[
+THE SCRIPT MADE BY KAN
+]] 
+
 if not game:IsLoaded() then game.Loaded:Wait() end
 if game.GameId ~= 1720936166 then return end
 local benchmark_time = os.clock()
